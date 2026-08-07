@@ -6,9 +6,9 @@
 .vs/
 bin/
 obj/
-Resources/
-Platforms/
-Properties/
+/Resources/
+/Platforms/
+/Properties/
 App.xaml
 App.xaml.cs
 AppShell.xaml
